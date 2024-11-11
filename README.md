@@ -1,6 +1,6 @@
 # Quiz Earn Project
 
-Welcome to the Quiz Earn project! This project is an Android application that allows users to participate in quizzes and earn rewards for correct answers.
+
 ### Some Images for the app:
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 12px">
@@ -43,9 +43,9 @@ The Quiz Earn Android Project offers the following features:
 - Profile management: Users can update their profile information, view their earned rewards, and track their progress.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/rishavchanda/Quiz-Earn.git`
-2. Open the project in Android Studio.
-3. Build and run the project on an Android device or emulator.
+
+1. Open the project in Android Studio.
+2. Build and run the project on an Android device or emulator.
 
 ## Usage
 1. Launch the app on your Android device.
@@ -54,13 +54,4 @@ The Quiz Earn Android Project offers the following features:
 4. Answer the quiz questions by selecting the correct option.
 5. Earn rewards for correct answers and track your progress on the leaderboard.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to the Quiz Earn project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
